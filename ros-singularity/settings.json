@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "/opt/apptainer/images/ros/noetic.sif/usr/bin/python3",
+    "python.envFile": "${workspaceFolder}/.vscode/.env",
+    "python.analysis.extraPaths": [
+        "../devel/lib/python3/dist-packages",
+        "./exacta_monitor/src",
+        "/home/wankun/Projects/PnP/catkin/dev/devel/lib/python3/dist-packages"
+    ]
+}
